@@ -13,7 +13,7 @@ This includes code in the following subdirectories:
  
   This code is implemented in Matlab; more documentation is given in the README in that subdirectory.
 
-* [DBLL](DBLL): Code to train on tasks from the paper "[Dialog-based Language Learning](https://arxiv.org/abs/1604.06045)". This code is implemented in [Torch7](http://torch.ch). The corresponding dataset for this task can be downloaded by running the `setup_data.sh` script in that directory.
+* [DBLL](DBLL): Code to train MemN2N on tasks from the paper "[Dialog-based Language Learning](https://arxiv.org/abs/1604.06045)". This code is implemented in [Torch7](http://torch.ch).
 
 ### Other 3rd party implementations
 * [python-babi](https://github.com/vinhkhuc/MemN2N-babi-python): MemN2N implemenation on bAbI tasks with very nice interactive demo.
